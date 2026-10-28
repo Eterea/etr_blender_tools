@@ -35,7 +35,7 @@ from . import eterea_ui
 
 # Full manual on GitHub (rendered Markdown).
 DOCUMENTATION_URL = (
-    "https://github.com/Eterea/blender_addons/blob/main/etr_blender_tools_docs/README.md"
+    "https://github.com/Eterea/etr_blender_tools/blob/main/etr_blender_tools_docs/README.md"
 )
 
 BUTTON_LABEL = "Open Online Readme"
